@@ -1,1 +1,1 @@
-# power-system-optimization
+# Power System Optimization
